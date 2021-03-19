@@ -11,7 +11,7 @@
 
 **如何访问：**
 
-* https://github.com//community/discussions
+* https://github.com/wujilingfeng/community/discussions
 
 **使用 Wiki 沉淀内容：** 欢迎在本 Repo 的 [Wiki 页面](https://github.com/hskll/community/wiki)协同编辑感兴趣的内容
 
